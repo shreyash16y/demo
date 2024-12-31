@@ -41,4 +41,9 @@ public class HomeController
 		return list;
 	 }
 	 
+	 public void m2()
+	 {
+		 
+	 }
+	 
 }
